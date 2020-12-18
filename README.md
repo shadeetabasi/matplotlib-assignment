@@ -23,7 +23,9 @@ As a senior data analyst at the company, you've been given access to the complet
 **Observations:** 
 * Overall, Capomulin appears to be effective in decreasing tumor volume over time. However, Ramicane appears to be associated with the smallest tumor volume/size out of four treatments - Capomulin, Ramicane, Infubinol, and Ceftamin.
 * There appears to be one outlier in the Infubinol dataset - a mouse with a tumor volume below 36.83 - which would require further investigation.
+
 ![Pymaceuticalsboxplot](https://github.com/shadeetabasi/matplotlib-assignment/blob/main/Images/pymaceuticals_boxplot.png)
 
 * There appears to be a positive correlation between mouse weight and tumor size - as indicateed in the final linear regression analysis conducted for the Capomulin drug regimen. This may indicate that either treatment was less effective in larger/overweight mice or simply that bigger mice have bigger tumors. We would need to look at change in tumor size over time for mice within different weight buckets to have a definitive answer here.
+
 ![Pymaceuticalslinearregression](https://github.com/shadeetabasi/matplotlib-assignment/blob/main/Images/pymaceuticals_linearregression.png)
