@@ -8,8 +8,8 @@ This repository will house the Pandas homework assignment due on December 19, 20
 * Data Folder
   * Mouse_metadata.csv
   * Study_results.csv
-* Images
-  * Con
+### Images
+  * Contains images within this README
 
 # Pymaceuticals : Assignment Details & Summary
 ![Pymaceuticals](https://github.com/shadeetabasi/matplotlib-assignment/blob/main/Images/Laboratory.jpg)
